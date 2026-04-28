@@ -1,4 +1,4 @@
-//1. import class
+\//1. import class
 import java.util.Scanner;
 public class latihanScanner {
     public static void main(String[] args) {
