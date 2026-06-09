@@ -11,7 +11,8 @@ public class Minggu9 {
     // No. 2 - Menghitung factorial dari n
     static int factorial(int n) {
         int hasil = 1;
-        for (int i = 1; i <= n; i++) {
+  for(int i = 1; i <= n; i++) {
+
             hasil = hasil * i;
         }
         return hasil;
